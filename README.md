@@ -67,7 +67,7 @@
 
 ### StarDev Ranking
 
-<a href="https://stardev.io/developers/GmHasan"><img alt="Check out said7388's profile on stardev.io" src="https://stardev.io/developers/said7388/badge/languages/locality.svg" /></a>
+<a href="https://stardev.io/developers/GmHasan"><img alt="Check out GmHasan's profile on stardev.io" src="https://drive.google.com/file/d/1iDMZvSi_pH56An85LMMAFpJVoGBYXaRO/view?usp=sharing" /></a>
 
 ---
 
